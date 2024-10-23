@@ -5,8 +5,6 @@
 /*
  * Copyright (c) [2023-2024] BVM COLLEGE
  *AUTHORS- RUDRA CHAUHAN[23CP010]
-         - SHYAM RAMANI [23CP001]
-         - SUJAL PATEL  [23CP010]
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this copy and source files, to deal
